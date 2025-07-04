@@ -56,4 +56,15 @@ Before starting, ensure you have the following:
 4. **Run the Application**  
    `npm start`
 
+### Backend Installation
+
+1. **Navigate to backend folder**
+     `cd Task-Management-Backend`
+2. **Install Dependencies**
+     `npm install`
+3. **Run development server**
+    `npm run dev`
+4. **Run server**
+    `npm start`
+
 ---
