@@ -3,10 +3,6 @@
 
 Welcome to the **Task-Manager**, a simple and efficient project and task management tool built using the **MERN Stack** (MongoDB, Express, React, Node.js). Stay organized by creating projects, adding tasks, setting deadlines, and prioritizing your work. Perfect for teams and individuals alike!
 
-### 🚀 Hacktoberfest 2024  
-We are excited to participate in **Hacktoberfest**! Contributions are welcome from everyone. Join the conversation in our [Discord Channel](https://discord.gg/nxD63YsJ) to collaborate and get assistance.
-
----
 
 ## 🌟 Features
 
@@ -61,36 +57,3 @@ Before starting, ensure you have the following:
    `npm start`
 
 ---
-
-## 🤝 Contribution Guide
-
-We welcome and appreciate contributions! Please follow these steps:
-
-1. **Fork the Repository**  
-   Create a fork of the main repository on GitHub.
-
-2. **Create a Branch**  
-   Create a feature branch:  
-   `git checkout -b my-feature-branch`
-
-3. **Make Changes**  
-   Implement your changes, and ensure they are well-documented.
-
-4. **Submit a Pull Request**  
-   After making changes, submit a PR (Pull Request) with a detailed description.  
-
-For detailed contribution guidelines, please refer to our [Contribution Guide](https://github.com/LakshmiSowmya04/Task-Manager/blob/main/CONTRIBUTING.md).
-
----
-
-## 🖼️ Frontend-Only Contribution
-
-If you'd like to contribute to just the frontend:
-
-- Clone and work within the `task-manager-ui` folder.
-- For beginners unfamiliar with React, contributions can be made using **HTML**, **CSS**, and **JavaScript**.
-- **Don't forget to attach screenshots** when submitting your pull request.
-
----
-
-Join us in building and improving this powerful Task Management tool! 🎉
